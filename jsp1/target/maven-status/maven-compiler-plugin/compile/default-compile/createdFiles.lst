@@ -1,0 +1,8 @@
+model\Userform.class
+connection\ConnectionH2.class
+servlet\bienvenida.class
+connection\ConnectionManager.class
+service\Servicio.class
+repository\Repositorio.class
+servlet\Servlet_listado.class
+model\assembler\UserAssembler.class
